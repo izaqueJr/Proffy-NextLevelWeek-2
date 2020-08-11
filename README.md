@@ -1,11 +1,11 @@
 ## Projeto em andamento
 
-###### Sobre:
+#### Sobre:
 
 O Proffy é a plataforma que conecta alunos e professores de forma fácil e intuitiva!
 
-![](/imagesReadme/proffy_mobi.png)
-![](/imagesReadme/proffy.desktop.png)
+![](/web/imagesReadme/proffy_mobi.png)
+![](/web/imagesReadme/proffy.desktop.png)
 
 
 ### 🔬Tecnologias utilizadas:
