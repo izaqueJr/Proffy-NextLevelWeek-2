@@ -1,4 +1,3 @@
-## Projeto em andamento
 
 #### Sobre:
 
